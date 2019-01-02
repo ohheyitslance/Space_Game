@@ -1,0 +1,16 @@
+body {
+    background-image: url(outerspace.jpg);
+    background-image: cover;
+    text-align: center
+}
+
+h1 {
+    color: white;
+    text-align: center;
+
+}
+
+div {
+    color: white;
+    margin: 60, 60;
+}
